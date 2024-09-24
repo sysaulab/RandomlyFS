@@ -6,8 +6,6 @@ We all know /dev/random, it offers the capability to generate a sequence one byt
 
 The **Randomly Random File System (RRFS)** expose 1 YottaByte (1 Tera-Terabyte) of randomly adressable random data.  It's data is accessed like any files and include seeking. Supporting 80 bit "adresses" using "63 bit" file offsets posed some challenges, test the limits of my computer and let me see what macos look like when it crashes.
 
-[Video Demo](https://youtu.be/5rybIH-BckU)
-
 RRFS is available under a BSD Licence. These are my notes telling the story of how this file system works, step by step, from mount to dismount.
 
 ## Installation
@@ -16,6 +14,8 @@ RRFS is available under a BSD Licence. These are my notes telling the story of h
 2. Download [sysaulab/randomlyfs](https://github.com/sysaulab/https://github.com/sysaulab/RandomlyFS).
 3. Type "make" to build the program
 4. Type ./rrfs to mount create and mount your Yottabyte or random files.
+
+[Video Demo](https://youtu.be/5rybIH-BckU)
 
 ## Practical limits
 
