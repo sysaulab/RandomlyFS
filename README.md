@@ -12,9 +12,8 @@ RRFS is available under a BSD Licence. These are my notes telling the story of h
 
 ## Installation
 
-0. Install [FUSE-T](https://www.fuse-t.org/)
-1. Download [sysaulab/libseedy](https://github.com/sysaulab/libseedy).
-2. Using a Terminal, "cd" to the /FUSE directory.
+1. Install [FUSE-T](https://www.fuse-t.org/)
+2. Download [sysaulab/randomlyfs](https://github.com/sysaulab/https://github.com/sysaulab/RandomlyFS).
 3. Type "make" to build the program
 4. Type ./rrfs to mount create and mount your Yottabyte or random files.
 
