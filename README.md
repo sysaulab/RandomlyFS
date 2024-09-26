@@ -13,7 +13,7 @@ RRFS is available under a BSD Licence. These are my notes telling the story of h
 1. Install [FUSE-T](https://www.fuse-t.org/)
 2. Download [sysaulab/randomlyfs](https://github.com/sysaulab/https://github.com/sysaulab/RandomlyFS).
 3. Type "make" to build the program
-4. Type ./rrfs to mount create and mount your Yottabyte or random files.
+4. Type ./rrfs to mount your new Randomly filesystem.
 
 [Video Demo](https://youtu.be/5rybIH-BckU)
 
